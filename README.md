@@ -37,6 +37,23 @@ The interactive dashboard contains five pages:
 4. Approval & Compliance
 5. Executive Insights & Recommendations
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+
+### 2. Budget & Expense Control
+![Budget & Expense Control](Dashboard_Screenshots/02_Budget_Expense_Control.png)
+
+### 3. Payment & Vendor Risk
+![Payment & Vendor Risk](Dashboard_Screenshots/03_Payment_Vendor_Risk.png)
+
+### 4. Approval & Compliance
+![Approval & Compliance](Dashboard_Screenshots/04_Approval_Compliance.png)
+
+### 5. Executive Insights & Recommendations
+![Executive Insights](Dashboard_Screenshots/05_Executive_Insights.png)
+
 ## Repository Structure
 - `Documentation/` – Project report
 - `SQL/` – SQL analysis scripts
